@@ -1,0 +1,27 @@
+{
+  "name": "listadetarefas",
+  "version": "1.0.0",
+  "description": "<!-- Desafio Técnico, do nosso processo seletivo para a Vaga de Pessoa Desenvolvedora Jr na Ebytr --> Lista de Tarefas desenvolvida utilizando MySQL, Express, React e Node.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Gean634N/listaDeTarefas.git"
+  },
+  "keywords": [
+    "todo",
+    "todolist",
+    "listaDeTarefas"
+  ],
+  "author": "Gean Gonçalves",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Gean634N/listaDeTarefas/issues"
+  },
+  "homepage": "https://github.com/Gean634N/listaDeTarefas#readme",
+  "dependencies": {
+    "dotenv": "^16.0.1"
+  }
+}
